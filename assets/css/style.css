@@ -1,0 +1,10 @@
+:root {
+    --purple: rgba(232, 102, 236, 1);
+    --grey: rgba(56, 53, 53, 1);
+    --white: rgba(230, 230, 230, 1);
+}
+
+body {
+    background-color: var(--grey);
+    color: var(--purple)
+}
